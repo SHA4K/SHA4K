@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @M.aseem
-- 👀 I’m interested in WEB development and on the other gaming
+- 👋 Hi, I’m @M.ASEEM
+- 👀 I’m interested in WEB development and on the other side gaming as well
 - 🌱 I’m currently learning web designing
 - 📫 How to reach me aseembb177@gmail.com
 
