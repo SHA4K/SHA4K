@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SHA4K
+- 👋 Hi, I’m @M.aseem
 - 👀 I’m interested in WEB development and on the other gaming
 - 🌱 I’m currently learning web designing
-- 📫 How to reach me @godofringsstarlord 
+- 📫 How to reach me aseembb177@gmail.com
 
 <!---
 SHA4K/SHA4K is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
